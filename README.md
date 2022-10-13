@@ -21,7 +21,6 @@ Just do:
 ```
     git clone https://gitlab.com/tanbinislam34/dmenu.git
     cd dmenu && sudo make install
-
 ```
 
 Refer to [https://tools.suckless.org/dmenu/](https://tools.suckless.org/dmenu/) for details on
